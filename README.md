@@ -1,16 +1,16 @@
 # Home — Dan Beaulieu
 
-[![Stars](https://img.shields.io/github/stars/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/stargazers) [![Forks](https://img.shields.io/github/forks/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/network/members)
+[![Stars](https://img.shields.io/github/stars/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/stargazers) [![Forks](https://img.shields.io/github/forks/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/network)
 
 [![License](https://img.shields.io/github/license/Dano-SanDog/home)](LICENSE) [![Repo Size](https://img.shields.io/github/repo-size/Dano-SanDog/home)](https://github.com/Dano-SanDog/home)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Cha--RoO-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
 
 A personal landing page that collects my professional links and core information in a clean, responsive, mobile-first layout.
 
 ## Overview
 
-This repository contains a minimal static site (HTML/CSS) used as a central hub for my online presence and professional profiles. The site is intentionally simple — no build steps or runtime dependencies.
+This repository contains a minimal static site (HTML/CSS) used as a central hub for my online presence and professional profiles. The site is intentionally simple — no build steps or runtime dependencies are required.
 
 ## Key Features
 
@@ -28,10 +28,18 @@ This repository contains a minimal static site (HTML/CSS) used as a central hub 
 
 ## Certifications
 
-[![AWS Certified Cloud Practitioner](./aws.png)](https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6)
-[![GIAC Information Security Professional](./gisp.png)](https://www.credly.com/badges/7f7e3e0b-f0e5-4cc3-b8e5-4a4a4a4a4a4a)
-[![GIAC Continuous Monitoring Certification](./gmon.png)](https://www.credly.com/badges/d6e6e6e6-e6e6-e6e6-e6e6-e6e6e6e6e6e6)
-[![GIAC Security Essentials Certification](./GSEC.png)](https://www.credly.com/badges/f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0)
+<a href="https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6" target="_blank" rel="noopener noreferrer">
+  <img src="./aws.png" alt="AWS Certified Cloud Practitioner" width="64" height="64">
+</a>
+<a href="https://www.credly.com/badges/7f7e3e0b-f0e5-4cc3-b8e5-4a4a4a4a4a4a" target="_blank" rel="noopener noreferrer">
+  <img src="./gisp.png" alt="GIAC Information Security Professional" width="64" height="64">
+</a>
+<a href="https://www.credly.com/badges/d6e6e6e6-e6e6-e6e6-e6e6-e6e6e6e6e6e6" target="_blank" rel="noopener noreferrer">
+  <img src="./gmon.png" alt="GIAC Continuous Monitoring Certification" width="64" height="64">
+</a>
+<a href="https://www.credly.com/badges/f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0" target="_blank" rel="noopener noreferrer">
+  <img src="./GSEC.png" alt="GIAC Security Essentials Certification" width="64" height="64">
+</a>
 
 ## About Me
 
