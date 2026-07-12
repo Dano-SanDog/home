@@ -1,6 +1,6 @@
 # Home — Dan Beaulieu
 
-[![Stars](https://img.shields.io/github/stars/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/stargazers) [![Forks](https://img.shields.io/github/forks/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/network/members) [![Issues](https://img.shields.io/github/issues/Dano-SanDog/home)](https://github.com/Dano-SanDog/home/issues) [![Last Commit](https://img.shields.io/github/last-commit/Dano-SanDog/home)](https://github.com/Dano-SanDog/home/commits) [![Top Language](https://img.shields.io/github/languages/top/Dano-SanDog/home)](https://github.com/Dano-SanDog/home/search?l=)
+[![Stars](https://img.shields.io/github/stars/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/stargazers) [![Forks](https://img.shields.io/github/forks/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/network/members)
 
 [![License](https://img.shields.io/github/license/Dano-SanDog/home)](LICENSE) [![Repo Size](https://img.shields.io/github/repo-size/Dano-SanDog/home)](https://github.com/Dano-SanDog/home)
 
@@ -10,7 +10,7 @@ A personal landing page that collects my professional links and core information
 
 ## Overview
 
-This repository contains a minimal static site (HTML/CSS) used as a central hub for my online presence and professional profiles. The site is intentionally simple — no build steps or runtime dependencies — so it can be hosted on GitHub Pages or any static file host.
+This repository contains a minimal static site (HTML/CSS) used as a central hub for my online presence and professional profiles. The site is intentionally simple — no build steps or runtime dependencies.
 
 ## Key Features
 
@@ -25,6 +25,13 @@ This repository contains a minimal static site (HTML/CSS) used as a central hub 
 - LinkedIn: [dano-beaulieu](https://www.linkedin.com/in/dano-beaulieu)
 - GitHub: [Dano-SanDog](https://github.com/Dano-SanDog)
 - YouTube: [My Channel](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
+
+## Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/4bc21d8b-4afe-4fbc-8f0c-f4c573c8f8cc/image.png)](https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6/linked_in_profile)
+[![GIAC Information Security Professional](https://images.credly.com/size/100x100/images/4f2c3be6-19d4-4b8f-b5fb-deb44bccdfca/giac_certified_information_security_professional_gcih_-_new_logo.png)](https://www.credly.com/badges/f75ea945-6636-4041-891b-95d36f0db508)
+[![GIAC Continuous Monitoring Certification](https://images.credly.com/size/100x100/images/4dd5d01a-cd3a-4bd5-aa32-b2c9f3f30b8f/giac_continuous_monitoring_certification_gmon_-_new_logo.png)](https://www.credly.com/badges/cb785068-e948-4ba5-891b-eccecb337b21/linked_in_profile)
+[![GIAC Security Essentials Certification](https://images.credly.com/size/100x100/images/3f2529f2-c44d-4e17-a2fd-49cc363d9e63/giac_security_essentials_certification_gsec_-_new_logo.png)](https://www.credly.com/badges/d8a2fb64-3341-4a46-bbd9-34fe7e6017f5)
 
 ## About Me
 
