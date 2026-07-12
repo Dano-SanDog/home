@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/github/license/Dano-SanDog/home)](LICENSE) [![Repo Size](https://img.shields.io/github/repo-size/Dano-SanDog/home)](https://github.com/Dano-SanDog/home)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Cha--RoO-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
 
 A personal landing page that collects my professional links and core information in a clean, responsive, mobile-first layout.
 
@@ -28,10 +28,10 @@ This repository contains a minimal static site (HTML/CSS) used as a central hub 
 
 ## Certifications
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/4bc21d8b-4afe-4fbc-8f0c-f4c573c8f8cc/image.png)](https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6/linked_in_profile)
-[![GIAC Information Security Professional](https://images.credly.com/size/100x100/images/4f2c3be6-19d4-4b8f-b5fb-deb44bccdfca/giac_certified_information_security_professional_gcih_-_new_logo.png)](https://www.credly.com/badges/f75ea945-6636-4041-891b-95d36f0db508)
-[![GIAC Continuous Monitoring Certification](https://images.credly.com/size/100x100/images/4dd5d01a-cd3a-4bd5-aa32-b2c9f3f30b8f/giac_continuous_monitoring_certification_gmon_-_new_logo.png)](https://www.credly.com/badges/cb785068-e948-4ba5-891b-eccecb337b21/linked_in_profile)
-[![GIAC Security Essentials Certification](https://images.credly.com/size/100x100/images/3f2529f2-c44d-4e17-a2fd-49cc363d9e63/giac_security_essentials_certification_gsec_-_new_logo.png)](https://www.credly.com/badges/d8a2fb64-3341-4a46-bbd9-34fe7e6017f5)
+[![AWS Certified Cloud Practitioner](./aws.png)](https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6)
+[![GIAC Information Security Professional](./gisp.png)](https://www.credly.com/badges/7f7e3e0b-f0e5-4cc3-b8e5-4a4a4a4a4a4a)
+[![GIAC Continuous Monitoring Certification](./gmon.png)](https://www.credly.com/badges/d6e6e6e6-e6e6-e6e6-e6e6-e6e6e6e6e6e6)
+[![GIAC Security Essentials Certification](./GSEC.png)](https://www.credly.com/badges/f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0)
 
 ## About Me
 
