@@ -64,17 +64,17 @@ This repository contains a minimal static site (HTML/CSS) used as a central hub 
 </figure>
 
 <figure style="display:inline-block; text-align:center; margin:0 8px;">
-  <img src="./apple.png" alt="Apple Certified Macintosh Technician" width="64" height="64">
+  <img src="./apple_logo.jpeg" alt="Apple Certified Macintosh Technician" width="64" height="64">
   <figcaption>Apple Certified Macintosh Technician</figcaption>
 </figure>
 
 <figure style="display:inline-block; text-align:center; margin:0 8px;">
-  <img src="./microsoft.png" alt="Microsoft MCP" width="64" height="64">
+  <img src="./microsoft_logo.jpeg" alt="Microsoft MCP" width="64" height="64">
   <figcaption>Microsoft MCP (Credential ID 3383648)</figcaption>
 </figure>
 
 <figure style="display:inline-block; text-align:center; margin:0 8px;">
-  <img src="./comptia.png" alt="CompTIA Server+" width="64" height="64">
+  <img src="./comptia_logo.jpeg" alt="CompTIA Server+" width="64" height="64">
   <figcaption>CompTIA Server+ (Credential ID COMP001020676556)</figcaption>
 </figure>
 
