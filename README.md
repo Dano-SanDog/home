@@ -1,5 +1,11 @@
 # Home — Dan Beaulieu
 
+[![Stars](https://img.shields.io/github/stars/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/stargazers) [![Forks](https://img.shields.io/github/forks/Dano-SanDog/home?style=social)](https://github.com/Dano-SanDog/home/network/members) [![Issues](https://img.shields.io/github/issues/Dano-SanDog/home)](https://github.com/Dano-SanDog/home/issues) [![Last Commit](https://img.shields.io/github/last-commit/Dano-SanDog/home)](https://github.com/Dano-SanDog/home/commits) [![Top Language](https://img.shields.io/github/languages/top/Dano-SanDog/home)](https://github.com/Dano-SanDog/home/search?l=)
+
+[![License](https://img.shields.io/github/license/Dano-SanDog/home)](LICENSE) [![Repo Size](https://img.shields.io/github/repo-size/Dano-SanDog/home)](https://github.com/Dano-SanDog/home)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
+
 A personal landing page that collects my professional links and core information in a clean, responsive, mobile-first layout.
 
 ## Overview
