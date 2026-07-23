@@ -4,9 +4,9 @@
 
 [![License](https://img.shields.io/github/license/Dano-SanDog/home)](LICENSE) [![Repo Size](https://img.shields.io/github/repo-size/Dano-SanDog/home)](https://github.com/Dano-SanDog/home)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-DanoChannel-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Dan_Beaulieu-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourname%2Fyourrepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDano-SanDog%2Fhome&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Dano-SanDog/home)
 
 A personal landing page that collects my professional links and core information in a clean, responsive, mobile-first layout.
 
@@ -30,15 +30,15 @@ This repository contains a minimal static site (HTML/CSS) used as a central hub 
 
 ## Certifications
 
-<img src="./images/aws.png" alt="AWS Certified Cloud Practitioner" width="48" height="48"> <a href="https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6/linked_in_profile" target="_blank" rel="noopener">AWS Certified Cloud Practitioner</a> — Amazon Web Services
+<img src="./images/aws.png" alt="AWS Certified Cloud Practitioner" width="48" height="48"> <a href="https://www.credly.com/badges/e46085df-a310-4dc3-a8fd-acfba2ff10f6/linked_in_profile" target="_blank" rel="noopener noreferrer">AWS Certified Cloud Practitioner — Amazon Web Services</a>
 
-<img src="./images/blackhat.png" alt="Advanced Malware Traffic Analysis" width="48" height="48"> <a href="https://certificates.blackhat.com/1dd51f04-8a3b-4096-843a-31e3a708856e#acc.Qp3XnRfE" target="_blank" rel="noopener">Advanced Malware Traffic Analysis</a> — Black Hat
+<img src="./images/blackhat.png" alt="Advanced Malware Traffic Analysis" width="48" height="48"> <a href="https://certificates.blackhat.com/1dd51f04-8a3b-4096-843a-31e3a708856e#acc.Qp3XnRfE" target="_blank" rel="noopener noreferrer">Advanced Malware Traffic Analysis — Black Hat</a>
 
-<img src="./images/gisp.png" alt="GIAC Information Security Professional (GISP)" width="48" height="48"> <a href="https://www.credly.com/badges/f75ea945-6636-4041-891b-95d36f0db508" target="_blank" rel="noopener">GIAC Information Security Professional (GISP)</a> — GIAC
+<img src="./images/gisp.png" alt="GIAC Information Security Professional (GISP)" width="48" height="48"> <a href="https://www.credly.com/badges/f75ea945-6636-4041-891b-95d36f0db508" target="_blank" rel="noopener noreferrer">GIAC Information Security Professional (GISP) — GIAC</a>
 
-<img src="./images/gmon.png" alt="GIAC Continuous Monitoring Certification (GMON)" width="48" height="48"> <a href="https://www.credly.com/badges/cb785068-e948-4ba5-891b-eccecb337b21/linked_in_profile" target="_blank" rel="noopener">GIAC Continuous Monitoring Certification (GMON)</a> — GIAC
+<img src="./images/gmon.png" alt="GIAC Continuous Monitoring Certification (GMON)" width="48" height="48"> <a href="https://www.credly.com/badges/cb785068-e948-4ba5-891b-eccecb337b21/linked_in_profile" target="_blank" rel="noopener noreferrer">GIAC Continuous Monitoring Certification (GMON) — GIAC</a>
 
-<img src="./images/GSEC.png" alt="GIAC Security Essentials Certification (GSEC)" width="48" height="48"> <a href="https://www.credly.com/badges/d8a2fb64-3341-4a46-bbd9-34fe7e6017f5" target="_blank" rel="noopener">GIAC Security Essentials Certification (GSEC)</a> — GIAC
+<img src="./images/GSEC.png" alt="GIAC Security Essentials Certification (GSEC)" width="48" height="48"> <a href="https://www.credly.com/badges/d8a2fb64-3341-4a46-bbd9-34fe7e6017f5" target="_blank" rel="noopener noreferrer">GIAC Security Essentials Certification (GSEC) — GIAC</a>
 
 <img src="./images/apple_logo.jpeg" alt="Apple Certified Macintosh Technician" width="48" height="48"> Apple Certified Macintosh Technician — Apple
 
