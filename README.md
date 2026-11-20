@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dano--beaulieu-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dano-beaulieu) [![YouTube](https://img.shields.io/badge/YouTube-Dan_Beaulieu-red?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCLb-486pz570VvL0PlsIgrw)
 
-[![Hits](https://img.shields.io/badge/hits-2112-79c83d)](https://github.com/Dano-SanDog/home)
+[![Hits](https://komarev.com/ghpvc/?username=Dano-SanDog&label=hits&color=79c83d&style=flat&base=2112)](https://github.com/Dano-SanDog/home)
 
 A personal landing page that collects my professional links and core information in a clean, responsive, mobile-first layout.
 
